@@ -1,0 +1,332 @@
+[08/06/2017 18:44:51]  Executing test : CreatePop
+[08/06/2017 18:44:51]  Executing test case : Create new Popdini Account
+[08/06/2017 18:44:51]  Creating a browser instance and navigating to the popdini site ...
+[08/06/2017 18:44:55]  Maximizing Browser window...
+[08/06/2017 18:44:56]  Browser window is maximized
+[08/06/2017 18:44:57]  Created browser instance successfully
+[08/06/2017 18:45:00]  Navigated to : http://livesoftwaresolution.in/popdini/home/userlog
+[08/06/2017 18:45:00]  Signing up to application ...
+[08/06/2017 18:45:00]  Clicking on : Sign up Link
+[08/06/2017 18:45:00]  Moving to : Sign up Link ...
+[08/06/2017 18:45:00]  Moved to : Sign up Link
+[08/06/2017 18:45:01]  Clicked on : Sign up Link
+[08/06/2017 18:45:01]  Successfully Retrieved data from Xls File :- Email address pre: PopEmail address post: @yopmail.com , Password : Qazwsx123and Confirm Password :Qazwsx123
+[08/06/2017 18:45:01]  Clearing field : 'Full Name' Input-box
+[08/06/2017 18:45:01]  Moving to : 'Full Name' Input-box ...
+[08/06/2017 18:45:01]  Moved to : 'Full Name' Input-box
+[08/06/2017 18:45:01]  Cleared : 'Full Name' Input-box
+[08/06/2017 18:45:01]  Sending Values in : 'Full Name' Input-box
+[08/06/2017 18:45:01]  Sending Values in : 'Full Name' Input-box
+[08/06/2017 18:45:01]  Inputted 'Test Popdini Name' text into : ''Full Name' Input-box'
+[08/06/2017 18:45:01]  Inputted 'Test Popdini Name' text into : ''Full Name' Input-box'
+[08/06/2017 18:45:01]  Clearing field : 'Email Address' Input-box
+[08/06/2017 18:45:01]  Moving to : 'Email Address' Input-box ...
+[08/06/2017 18:45:01]  Moved to : 'Email Address' Input-box
+[08/06/2017 18:45:01]  Cleared : 'Email Address' Input-box
+[08/06/2017 18:45:01]  Sending Values in : 'Email Address' Input-box
+[08/06/2017 18:45:01]  Sending Values in : 'Email Address' Input-box
+[08/06/2017 18:45:01]  Inputted 'Pop383@yopmail.com' text into : ''Email Address' Input-box'
+[08/06/2017 18:45:01]  Inputted 'Pop383@yopmail.com' text into : ''Email Address' Input-box'
+[08/06/2017 18:45:01]  Clearing field : 'Password' Input-box
+[08/06/2017 18:45:01]  Moving to : 'Password' Input-box ...
+[08/06/2017 18:45:01]  Moved to : 'Password' Input-box
+[08/06/2017 18:45:01]  Cleared : 'Password' Input-box
+[08/06/2017 18:45:01]  Sending Values in : 'Password' Input-box
+[08/06/2017 18:45:01]  Sending Values in : 'Password' Input-box
+[08/06/2017 18:45:02]  Inputted 'Qazwsx123' text into : ''Password' Input-box'
+[08/06/2017 18:45:02]  Inputted 'Qazwsx123' text into : ''Password' Input-box'
+[08/06/2017 18:45:02]  Clearing field : 'RepeatPassword' Input-box
+[08/06/2017 18:45:02]  Moving to : 'RepeatPassword' Input-box ...
+[08/06/2017 18:45:02]  Moved to : 'RepeatPassword' Input-box
+[08/06/2017 18:45:02]  Cleared : 'RepeatPassword' Input-box
+[08/06/2017 18:45:02]  Sending Values in : 'RepeatPassword' Input-box
+[08/06/2017 18:45:02]  Sending Values in : 'RepeatPassword' Input-box
+[08/06/2017 18:45:02]  Inputted 'Qazwsx123' text into : ''RepeatPassword' Input-box'
+[08/06/2017 18:45:02]  Inputted 'Qazwsx123' text into : ''RepeatPassword' Input-box'
+[08/06/2017 18:45:02]  Clicking on : 'SIGN Up' Button
+[08/06/2017 18:45:02]  Moving to : 'SIGN Up' Button ...
+[08/06/2017 18:45:02]  Moved to : 'SIGN Up' Button
+[08/06/2017 18:45:04]  Clicked on : 'SIGN Up' Button
+[08/06/2017 18:45:04]  Retrieving Text from : Registration Successful message
+[08/06/2017 18:45:04]  Retrieved text : Registration successful. Please log in below
+[08/06/2017 18:45:04]  Asserting text for : 'Registration Successful message' where Expected text is 'Registration successful. Please log in below' and Actual text is 'Registration successful. Please log in below'
+[08/06/2017 18:45:04]  Successfully asserted text for : 'Registration Successful message' where Expected text is 'Registration successful. Please log in below' and Actual text is 'Registration successful. Please log in below'
+[08/06/2017 18:45:04]  Result of test case execution - Pass : New Popdini Account Created successfully
+[08/06/2017 18:45:04]  Closing the driver ...
+[08/06/2017 18:45:04]  Getting browser info ...
+[08/06/2017 18:45:04]  Got browser info : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[08/06/2017 18:45:05]  Closed the driver
+[08/06/2017 18:45:05]  Executing test case : Log in to Popdini Account
+[08/06/2017 18:45:05]  Creating a browser instance and navigating to the popdini site ...
+[08/06/2017 18:45:07]  Maximizing Browser window...
+[08/06/2017 18:45:09]  Browser window is maximized
+[08/06/2017 18:45:09]  Created browser instance successfully
+[08/06/2017 18:45:12]  Navigated to : http://livesoftwaresolution.in/popdini/home/userlog
+[08/06/2017 18:45:12]  Logging in to application ...
+[08/06/2017 18:45:12]  Successfully Retrieved data from Xls File :-  Email address : Pop383@yopmail.com and Password : Qazwsx123
+[08/06/2017 18:45:12]  Clearing field : Sign In 'Email' Input-Box
+[08/06/2017 18:45:12]  Moving to : Sign In 'Email' Input-Box ...
+[08/06/2017 18:45:12]  Moved to : Sign In 'Email' Input-Box
+[08/06/2017 18:45:12]  Cleared : Sign In 'Email' Input-Box
+[08/06/2017 18:45:12]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:45:12]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:45:13]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:45:13]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:45:13]  Clearing field : Sign In 'Password' Input-Box
+[08/06/2017 18:45:13]  Moving to : Sign In 'Password' Input-Box ...
+[08/06/2017 18:45:13]  Moved to : Sign In 'Password' Input-Box
+[08/06/2017 18:45:13]  Cleared : Sign In 'Password' Input-Box
+[08/06/2017 18:45:13]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:45:13]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:45:13]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:45:13]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:45:13]  Clicking on : 'Log In' Button
+[08/06/2017 18:45:13]  Moving to : 'Log In' Button ...
+[08/06/2017 18:45:13]  Moved to : 'Log In' Button
+[08/06/2017 18:45:21]  Clicked on : 'Log In' Button
+[08/06/2017 18:45:21]  Retrieving Text from : Log in successfull
+[08/06/2017 18:45:21]  Retrieved text : Sign Out
+[08/06/2017 18:45:21]  Asserting text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:45:21]  Successfully asserted text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:45:21]  Subscribing to a package ...
+[08/06/2017 18:45:21]  Clicking on : 'Try Now' button
+[08/06/2017 18:45:21]  Moving to : 'Try Now' button ...
+[08/06/2017 18:45:21]  Moved to : 'Try Now' button
+[08/06/2017 18:45:21]  Clicked on : 'Try Now' button
+[08/06/2017 18:45:22]  Checking whether Stripe checkout frame is displayed on the page or not ...
+[08/06/2017 18:45:22]  Stripe checkout frame is displayed on the page
+[08/06/2017 18:45:22]  Switched to frame
+[08/06/2017 18:45:22]  Successfully Retrieved data from Xls File :- Email Addresstest112@yopmail.com, Card Number : 4242424242424242 , Expairy Date : 02/23 and CVV number 564
+[08/06/2017 18:45:22]  Clearing field : Stripe email InputBox
+[08/06/2017 18:45:22]  Moving to : Stripe email InputBox ...
+[08/06/2017 18:45:22]  Moved to : Stripe email InputBox
+[08/06/2017 18:45:22]  Cleared : Stripe email InputBox
+[08/06/2017 18:45:22]  Sending Values in : Stripe email InputBox
+[08/06/2017 18:45:22]  Sending Values in : Stripe email InputBox
+[08/06/2017 18:45:23]  Inputted 'test112@yopmail.com' text into : 'Stripe email InputBox'
+[08/06/2017 18:45:23]  Inputted 'test112@yopmail.com' text into : 'Stripe email InputBox'
+[08/06/2017 18:45:23]  Clearing field : Stripe Card number input box
+[08/06/2017 18:45:23]  Moving to : Stripe Card number input box ...
+[08/06/2017 18:45:23]  Moved to : Stripe Card number input box
+[08/06/2017 18:45:23]  Cleared : Stripe Card number input box
+[08/06/2017 18:45:23]  Sending Values in : Stripe Card number input box
+[08/06/2017 18:45:23]  Sending Values in : Stripe Card number input box
+[08/06/2017 18:45:23]  Inputted '4242424242424242' text into : 'Stripe Card number input box'
+[08/06/2017 18:45:23]  Inputted '4242424242424242' text into : 'Stripe Card number input box'
+[08/06/2017 18:45:23]  Clearing field : Expairy date input box
+[08/06/2017 18:45:23]  Moving to : Expairy date input box ...
+[08/06/2017 18:45:23]  Moved to : Expairy date input box
+[08/06/2017 18:45:23]  Cleared : Expairy date input box
+[08/06/2017 18:45:23]  Sending Values in : Expairy date input box
+[08/06/2017 18:45:23]  Sending Values in : Expairy date input box
+[08/06/2017 18:45:24]  Inputted '02/23' text into : 'Expairy date input box'
+[08/06/2017 18:45:24]  Inputted '02/23' text into : 'Expairy date input box'
+[08/06/2017 18:45:24]  Clearing field : CVC input box
+[08/06/2017 18:45:24]  Moving to : CVC input box ...
+[08/06/2017 18:45:24]  Moved to : CVC input box
+[08/06/2017 18:45:24]  Cleared : CVC input box
+[08/06/2017 18:45:24]  Sending Values in : CVC input box
+[08/06/2017 18:45:24]  Sending Values in : CVC input box
+[08/06/2017 18:45:24]  Inputted '564' text into : 'CVC input box'
+[08/06/2017 18:45:24]  Inputted '564' text into : 'CVC input box'
+[08/06/2017 18:45:24]  Clicking on : 'Pay' button
+[08/06/2017 18:45:24]  Moving to : 'Pay' button ...
+[08/06/2017 18:45:24]  Moved to : 'Pay' button
+[08/06/2017 18:45:24]  Clicked on : 'Pay' button
+[08/06/2017 18:45:24]  Retrieving Text from : Payment Success
+[08/06/2017 18:45:30]  Retrieved text : Take the quick tutorial below to create your first pop
+[08/06/2017 18:45:30]  Asserting text for : 'Payment Success' where Expected text is 'Take the quick tutorial below to create your first pop' and Actual text is 'Take the quick tutorial below to create your first pop'
+[08/06/2017 18:45:30]  Successfully asserted text for : 'Payment Success' where Expected text is 'Take the quick tutorial below to create your first pop' and Actual text is 'Take the quick tutorial below to create your first pop'
+[08/06/2017 18:45:30]  Result of test case execution - Pass : Subscribed to a plan successfully
+[08/06/2017 18:45:30]  Closing the driver ...
+[08/06/2017 18:45:30]  Getting browser info ...
+[08/06/2017 18:45:30]  Got browser info : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[08/06/2017 18:45:31]  Closed the driver
+[08/06/2017 18:45:31]  Executing test case : Log in to Popdini Account
+[08/06/2017 18:45:31]  Creating a browser instance and navigating to the popdini site ...
+[08/06/2017 18:45:34]  Maximizing Browser window...
+[08/06/2017 18:45:35]  Browser window is maximized
+[08/06/2017 18:45:36]  Created browser instance successfully
+[08/06/2017 18:45:38]  Navigated to : http://livesoftwaresolution.in/popdini/home/userlog
+[08/06/2017 18:45:38]  Logging in to application ...
+[08/06/2017 18:45:38]  Successfully Retrieved data from Xls File :-  Email address : Pop383@yopmail.com and Password : Qazwsx123
+[08/06/2017 18:45:38]  Clearing field : Sign In 'Email' Input-Box
+[08/06/2017 18:45:38]  Moving to : Sign In 'Email' Input-Box ...
+[08/06/2017 18:45:38]  Moved to : Sign In 'Email' Input-Box
+[08/06/2017 18:45:38]  Cleared : Sign In 'Email' Input-Box
+[08/06/2017 18:45:38]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:45:38]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:45:38]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:45:38]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:45:38]  Clearing field : Sign In 'Password' Input-Box
+[08/06/2017 18:45:38]  Moving to : Sign In 'Password' Input-Box ...
+[08/06/2017 18:45:38]  Moved to : Sign In 'Password' Input-Box
+[08/06/2017 18:45:39]  Cleared : Sign In 'Password' Input-Box
+[08/06/2017 18:45:39]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:45:39]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:45:39]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:45:39]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:45:39]  Clicking on : 'Log In' Button
+[08/06/2017 18:45:39]  Moving to : 'Log In' Button ...
+[08/06/2017 18:45:39]  Moved to : 'Log In' Button
+[08/06/2017 18:45:40]  Clicked on : 'Log In' Button
+[08/06/2017 18:45:40]  Retrieving Text from : Log in successfull
+[08/06/2017 18:45:40]  Retrieved text : Sign Out
+[08/06/2017 18:45:40]  Asserting text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:45:40]  Successfully asserted text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:45:40]  Result of test case execution - Pass : Logged into popdini account successfully
+[08/06/2017 18:45:40]  Closing the driver ...
+[08/06/2017 18:45:40]  Getting browser info ...
+[08/06/2017 18:45:40]  Got browser info : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[08/06/2017 18:45:41]  Closed the driver
+[08/06/2017 18:45:41]  Executing test case : Create First post
+[08/06/2017 18:45:41]  Creating a browser instance and navigating to the popdini site ...
+[08/06/2017 18:45:43]  Maximizing Browser window...
+[08/06/2017 18:45:44]  Browser window is maximized
+[08/06/2017 18:45:45]  Created browser instance successfully
+[08/06/2017 18:45:47]  Navigated to : http://livesoftwaresolution.in/popdini/home/userlog
+[08/06/2017 18:45:47]  Logging in to application ...
+[08/06/2017 18:45:47]  Successfully Retrieved data from Xls File :-  Email address : Pop383@yopmail.com and Password : Qazwsx123
+[08/06/2017 18:45:47]  Clearing field : Sign In 'Email' Input-Box
+[08/06/2017 18:45:47]  Moving to : Sign In 'Email' Input-Box ...
+[08/06/2017 18:45:47]  Moved to : Sign In 'Email' Input-Box
+[08/06/2017 18:45:47]  Cleared : Sign In 'Email' Input-Box
+[08/06/2017 18:45:47]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:45:47]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:45:48]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:45:48]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:45:48]  Clearing field : Sign In 'Password' Input-Box
+[08/06/2017 18:45:48]  Moving to : Sign In 'Password' Input-Box ...
+[08/06/2017 18:45:48]  Moved to : Sign In 'Password' Input-Box
+[08/06/2017 18:45:48]  Cleared : Sign In 'Password' Input-Box
+[08/06/2017 18:45:48]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:45:48]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:45:48]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:45:48]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:45:48]  Clicking on : 'Log In' Button
+[08/06/2017 18:45:48]  Moving to : 'Log In' Button ...
+[08/06/2017 18:45:48]  Moved to : 'Log In' Button
+[08/06/2017 18:45:49]  Clicked on : 'Log In' Button
+[08/06/2017 18:45:49]  Retrieving Text from : Log in successfull
+[08/06/2017 18:45:49]  Retrieved text : Sign Out
+[08/06/2017 18:45:49]  Asserting text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:45:49]  Successfully asserted text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:45:49]  Creating first pop ...
+[08/06/2017 18:45:49]  Successfully Retrieved data from Xls File :- Brand NameFirst Brand, Brand URL : www.yahoo.co.in, Article URL www.washingtonpost.com, Article Message First Pop Message, Button Text Let's Go!, Button Link www.youtube.com
+[08/06/2017 18:45:49]  Clicking on : Create MY Pop Button
+[08/06/2017 18:45:49]  Moving to : Create MY Pop Button ...
+[08/06/2017 18:45:49]  Moved to : Create MY Pop Button
+[08/06/2017 18:45:50]  Clicked on : Create MY Pop Button
+[08/06/2017 18:45:50]  Clearing field : Brand Name Input Box
+[08/06/2017 18:45:50]  Moving to : Brand Name Input Box ...
+[08/06/2017 18:45:50]  Moved to : Brand Name Input Box
+[08/06/2017 18:45:50]  Cleared : Brand Name Input Box
+[08/06/2017 18:45:50]  Sending Values in : Brand Name Input Box
+[08/06/2017 18:45:50]  Sending Values in : Brand Name Input Box
+[08/06/2017 18:45:50]  Inputted 'First Brand' text into : 'Brand Name Input Box'
+[08/06/2017 18:45:50]  Inputted 'First Brand' text into : 'Brand Name Input Box'
+[08/06/2017 18:45:50]  Clearing field : Home URL Input Box
+[08/06/2017 18:45:50]  Moving to : Home URL Input Box ...
+[08/06/2017 18:45:51]  Moved to : Home URL Input Box
+[08/06/2017 18:45:51]  Cleared : Home URL Input Box
+[08/06/2017 18:45:51]  Sending Values in : Home URL Input Box
+[08/06/2017 18:45:51]  Sending Values in : Home URL Input Box
+[08/06/2017 18:45:51]  Inputted 'www.yahoo.co.in' text into : 'Home URL Input Box'
+[08/06/2017 18:45:51]  Inputted 'www.yahoo.co.in' text into : 'Home URL Input Box'
+[08/06/2017 18:45:51]  Sending Values in : Brand Image file upload
+[08/06/2017 18:45:51]  Inputted 'E:\MyWork\FP\FProject\Aggie-Popdini\PopdiniAutomation\Images\BrandImage.jpg' text into : 'Brand Image file upload'
+[08/06/2017 18:45:51]  Clicking on : 'Next' button
+[08/06/2017 18:45:51]  Moving to : 'Next' button ...
+[08/06/2017 18:45:51]  Moved to : 'Next' button
+[08/06/2017 18:45:52]  Clicked on : 'Next' button
+[08/06/2017 18:45:52]  Clearing field : Article Input Box
+[08/06/2017 18:45:52]  Moving to : Article Input Box ...
+[08/06/2017 18:45:52]  Moved to : Article Input Box
+[08/06/2017 18:45:52]  Cleared : Article Input Box
+[08/06/2017 18:45:52]  Sending Values in : Article Input Box
+[08/06/2017 18:45:52]  Sending Values in : Article Input Box
+[08/06/2017 18:45:52]  Inputted 'www.washingtonpost.com' text into : 'Article Input Box'
+[08/06/2017 18:45:52]  Inputted 'www.washingtonpost.com' text into : 'Article Input Box'
+[08/06/2017 18:45:52]  Clearing field :  Message Input box
+[08/06/2017 18:45:52]  Moving to :  Message Input box ...
+[08/06/2017 18:45:52]  Moved to :  Message Input box
+[08/06/2017 18:45:52]  Cleared :  Message Input box
+[08/06/2017 18:45:52]  Sending Values in :  Message Input box
+[08/06/2017 18:45:52]  Sending Values in :  Message Input box
+[08/06/2017 18:45:52]  Inputted 'First Pop Message' text into : ' Message Input box'
+[08/06/2017 18:45:52]  Inputted 'First Pop Message' text into : ' Message Input box'
+[08/06/2017 18:45:52]  Clearing field :  Button Text Input box
+[08/06/2017 18:45:52]  Moving to :  Button Text Input box ...
+[08/06/2017 18:45:52]  Moved to :  Button Text Input box
+[08/06/2017 18:45:59]  Cleared :  Button Text Input box
+[08/06/2017 18:45:59]  Sending Values in :  Button Text Input box
+[08/06/2017 18:45:59]  Sending Values in :  Button Text Input box
+[08/06/2017 18:45:59]  Inputted 'Let's Go!' text into : ' Button Text Input box'
+[08/06/2017 18:45:59]  Inputted 'Let's Go!' text into : ' Button Text Input box'
+[08/06/2017 18:45:59]  Clearing field :  Button Link Input box
+[08/06/2017 18:45:59]  Moving to :  Button Link Input box ...
+[08/06/2017 18:45:59]  Moved to :  Button Link Input box
+[08/06/2017 18:45:59]  Cleared :  Button Link Input box
+[08/06/2017 18:45:59]  Sending Values in :  Button Link Input box
+[08/06/2017 18:45:59]  Sending Values in :  Button Link Input box
+[08/06/2017 18:45:59]  Inputted 'www.youtube.com' text into : ' Button Link Input box'
+[08/06/2017 18:45:59]  Inputted 'www.youtube.com' text into : ' Button Link Input box'
+[08/06/2017 18:45:59]  Clicking on : Next button in Cta page
+[08/06/2017 18:45:59]  Moving to : Next button in Cta page ...
+[08/06/2017 18:45:59]  Moved to : Next button in Cta page
+[08/06/2017 18:46:04]  Clicked on : Next button in Cta page
+[08/06/2017 18:46:04]  Retrieving Text from : Pop creation successful
+[08/06/2017 18:46:04]  Retrieved text : You just created your first pop!
+[08/06/2017 18:46:04]  Asserting text for : 'Pop creation successful' where Expected text is 'You just created your first pop!' and Actual text is 'You just created your first pop!'
+[08/06/2017 18:46:04]  Successfully asserted text for : 'Pop creation successful' where Expected text is 'You just created your first pop!' and Actual text is 'You just created your first pop!'
+[08/06/2017 18:46:04]  Clicking on : 'Go to Dashboard' button
+[08/06/2017 18:46:04]  Moving to : 'Go to Dashboard' button ...
+[08/06/2017 18:46:04]  Moved to : 'Go to Dashboard' button
+[08/06/2017 18:46:09]  Clicked on : 'Go to Dashboard' button
+[08/06/2017 18:46:09]  Result of test case execution - Pass : Executed Test case 'Create First Pop'
+[08/06/2017 18:46:09]  Closing the driver ...
+[08/06/2017 18:46:09]  Getting browser info ...
+[08/06/2017 18:46:09]  Got browser info : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[08/06/2017 18:46:10]  Closed the driver
+[08/06/2017 18:46:10]  Executing test case : Create First post
+[08/06/2017 18:46:10]  Creating a browser instance and navigating to the popdini site ...
+[08/06/2017 18:46:12]  Maximizing Browser window...
+[08/06/2017 18:46:13]  Browser window is maximized
+[08/06/2017 18:46:14]  Created browser instance successfully
+[08/06/2017 18:46:16]  Navigated to : http://livesoftwaresolution.in/popdini/home/userlog
+[08/06/2017 18:46:16]  Logging in to application ...
+[08/06/2017 18:46:17]  Successfully Retrieved data from Xls File :-  Email address : Pop383@yopmail.com and Password : Qazwsx123
+[08/06/2017 18:46:17]  Clearing field : Sign In 'Email' Input-Box
+[08/06/2017 18:46:17]  Moving to : Sign In 'Email' Input-Box ...
+[08/06/2017 18:46:17]  Moved to : Sign In 'Email' Input-Box
+[08/06/2017 18:46:17]  Cleared : Sign In 'Email' Input-Box
+[08/06/2017 18:46:17]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:46:17]  Sending Values in : Sign In 'Email' Input-Box
+[08/06/2017 18:46:17]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:46:17]  Inputted 'Pop383@yopmail.com' text into : 'Sign In 'Email' Input-Box'
+[08/06/2017 18:46:17]  Clearing field : Sign In 'Password' Input-Box
+[08/06/2017 18:46:17]  Moving to : Sign In 'Password' Input-Box ...
+[08/06/2017 18:46:17]  Moved to : Sign In 'Password' Input-Box
+[08/06/2017 18:46:17]  Cleared : Sign In 'Password' Input-Box
+[08/06/2017 18:46:17]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:46:17]  Sending Values in : Sign In 'Password' Input-Box
+[08/06/2017 18:46:17]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:46:17]  Inputted 'Qazwsx123' text into : 'Sign In 'Password' Input-Box'
+[08/06/2017 18:46:17]  Clicking on : 'Log In' Button
+[08/06/2017 18:46:17]  Moving to : 'Log In' Button ...
+[08/06/2017 18:46:17]  Moved to : 'Log In' Button
+[08/06/2017 18:46:22]  Clicked on : 'Log In' Button
+[08/06/2017 18:46:22]  Retrieving Text from : Log in successfull
+[08/06/2017 18:46:22]  Retrieved text : Sign Out
+[08/06/2017 18:46:22]  Asserting text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:46:22]  Successfully asserted text for : 'Log in successfull' where Expected text is 'Sign Out' and Actual text is 'Sign Out'
+[08/06/2017 18:46:22]  Creating first pop ...
+[08/06/2017 18:46:22]  Successfully Retrieved data from Xls File :- Brand NameFirst Brand, Brand URL : www.yahoo.co.in, Article URL www.washingtonpost.com, Article Message First Pop Message, Button Text Let's Go!, Button Link www.youtube.com
+[08/06/2017 18:46:22]  Clicking on : Create MY Pop Button
+[08/06/2017 18:46:27]  Error while clicking on - Create MY Pop Button : null
+[08/06/2017 18:46:27]  Result of test case execution - Fail : Error while clicking on - Create MY Pop Button : null
+[08/06/2017 18:46:27]  Error while taking screenshot : null
+[08/06/2017 18:46:27]  SCREENSHOT taken under : E:\MyWork\FP\FProject\Aggie-Popdini\PopdiniAutomation\Report\Suite1_TC1_TS5_createPopUsingButton0.jpg
+[08/06/2017 18:46:27]  Error came : null
+[08/06/2017 18:46:28]  Result of the 'CreatePop' test suite execution - Fail
+[08/06/2017 18:46:28]  *** Test run finished ***
