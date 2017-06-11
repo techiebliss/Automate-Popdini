@@ -1,0 +1,125 @@
+table.testSuites {
+	margin: auto;
+	width: 100%;
+	text-align: center;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: normal;
+	border-collapse: separate;
+	border-spacing: 1px;
+}
+
+table.tests {
+	margin: auto;
+	width: 100%;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	border-collapse: separate;
+	border-spacing: 1px;
+}
+
+caption {
+	text-align: left;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 3em;
+}
+
+thead td {
+	padding: 15px 30px 15px 30px;
+	color: #424242;
+	font-size: 14px;
+	text-align: center;
+	border-bottom: 2px solid #BDBDBD;
+	background-color: #D8D8D8;
+}
+
+table.testSuites tbody td {
+	padding: 5px 10px 5px 10px;
+}
+
+table.tests tbody td {
+	padding: 10px 10px 10px 10px;
+}
+
+img {
+	height: 20px;
+	width: 20px;
+	margin: auto;
+}
+
+a {
+    text-decoration: none;
+	color: inherit;
+}
+
+.pass{
+	color: #0B610B;
+	background-color: #CEF6E3;
+	text-align: center;
+}
+
+.pass a:hover { 
+	color: #0B3B0B;
+	text-shadow: 0.1em 0.1em 0.1em #79DB7B;
+	text-decoration: underline;
+}
+
+.fail{
+	color: #DF0101;
+	background-color: #F6CECE;
+	text-align: center;
+}
+
+.fail a:hover { 
+	color: #B40404;
+	text-shadow: 0.1em 0.1em 0.1em #FFAEAE;
+	text-decoration: underline;
+}
+
+.skip{
+	color: #886108;
+	background-color: #F5ECCE;
+	text-align: center;
+}
+
+table.info {
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	font-weight: bold;
+	border-collapse: separate;
+	border-spacing: 1px;
+}
+
+td.header {
+	padding: 8px 15px 8px 15px;
+	font-size: 12px;
+	color: #424242;
+	font-weight: bold;
+	border-bottom: 2px solid #BDBDBD;
+	background-color: #D8D8D8;
+}
+
+td.data {
+	padding: 8px 15px 8px 15px;
+	color: #5b5b5b;
+	font-size: 11px;
+	border-bottom: 2px solid #E6E6E6;
+	background-color: #F2F2F2;
+}
+
+table.header {
+	margin: auto;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	border-collapse: separate;
+	border-spacing: 1px;
+	padding: 10px 15px 10px 15px;
+	color: #424242;
+	font-weight: bold;
+	border-bottom: 2px solid #BDBDBD;
+	background-color: #F5F5F5;
+}
